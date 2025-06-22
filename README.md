@@ -1,9 +1,9 @@
 ## Hi there 👋
-Hi! I am a Fourth year Ph.D. Student at the National University of Singapore, working with Dr. Harold Soh at the CLeAR Lab.
+Hi! I am a Fourth year Ph.D. Student at the National University of Singapore, working with Dr. Harold Soh at the [CLeAR Lab](https://clear-nus.github.io/).
 
-Research: I’m generally interested in Human-Robot Interaction, Explainable AI, and Robot Foundation Models. Currently, I work at the intersection of these fields, specifically, the Synthesis and Evaluation of Social Navigation Algorithms that would aid robots to behave in a context-appropriate and socially-compliant manner around humans.
+Research: I’m generally interested in Human-Robot Interaction, Explainable AI, and Robot Foundation Models. Currently, I work at the intersection of these fields, specifically, the Synthesis and [Evaluation](https://arxiv.org/abs/2412.19595) of Social Navigation Algorithms that would aid robots to behave in a context-appropriate and socially-compliant manner around humans.
 
-Previously: In my Masters Thesis at Arizona State University, I worked on Action Model Learning of black-box agents through agent interrogation with Dr. Siddharth Srivastava and before that, I worked on AI agents that learn to generate explanations progressively for planning tasks through inverse reinforcement learning with Dr. Yu (Tony) Zhang.
+Previously: In my [Masters Thesis](https://www.proquest.com/openview/9216bce3ba7ecc5faedde3cff0268e66/1?pq-origsite=gscholar&cbl=18750&diss=y) at Arizona State University, I worked on [Action Model Learning of black-box agents through agent interrogation](https://arxiv.org/pdf/2107.13668) with Dr. Siddharth Srivastava and before that, I worked on AI agents that learn to [generate explanations progressively](https://arxiv.org/pdf/2004.07822) for planning tasks through inverse reinforcement learning with Dr. Yu (Tony) Zhang.
 
 When I’m not working on research, you can generally find me either playing some guitar, cooking, sketching, or watching British panel/comedy shows.
 <!--
