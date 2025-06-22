@@ -4,7 +4,9 @@ Hi! I am a Fourth year Ph.D. Student at the National University of Singapore, wo
 **Research**: I’m generally interested in Human-Robot Interaction, Explainable AI, and Robot Foundation Models. Currently, I work at the intersection of these fields, specifically, the Synthesis and [Evaluation](https://arxiv.org/abs/2412.19595) of Social Navigation Algorithms that would aid robots to behave in a context-appropriate and socially-compliant manner around humans.
 
 **Previously**: In my [Masters Thesis](https://www.proquest.com/openview/9216bce3ba7ecc5faedde3cff0268e66/1?pq-origsite=gscholar&cbl=18750&diss=y) at Arizona State University, I worked on [Action Model Learning of black-box agents through agent interrogation](https://arxiv.org/pdf/2107.13668) with Dr. Siddharth Srivastava and before that, I worked on AI agents that learn to [generate explanations progressively](https://arxiv.org/pdf/2004.07822) for planning tasks through inverse reinforcement learning with Dr. Yu (Tony) Zhang.
+
 I'm passionate about building safe, socially-acceptable mobile robots and am always looking for collaboration opportunities! Reach out me via [mail](mailto:smarpally@u.nus.edu)!
+
 When I’m not working on research, you can generally find me either playing some guitar, cooking, sketching, or watching British panel/comedy shows.
 <!--
 **raoshashank/raoshashank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
